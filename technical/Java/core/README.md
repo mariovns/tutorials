@@ -54,7 +54,43 @@ Old Generation memory contains the objects that are long-lived and survived afte
   * return a new Map from the same values, but underlying object can be changed
   * make underlying object read-only
 
+#### Weak & Soft References
+A Reference instance is in one of four possible internal states:
+    Active: Subject to special treatment by the garbage collector.  Some
+    time after the collector detects that the reachability of the
+    referent has changed to the appropriate state, it changes the
+    instance's state to either Pending or Inactive, depending upon
+    whether or not the instance was registered with a queue when it was
+    created.  In the former case it also adds the instance to the
+    pending-Reference list.  Newly-created instances are Active.
+    Pending: An element of the pending-Reference list, waiting to be
+    enqueued by the Reference-handler thread.  Unregistered instances
+    are never in this state.
+    Enqueued: An element of the queue with which the instance was
+    registered when it was created.  When an instance is removed from
+    its ReferenceQueue, it is made Inactive.  Unregistered instances are
+    never in this state.
+    Inactive: Nothing more to do.  Once an instance becomes Inactive its
+    state will never change again.
+The state is encoded in the queue and next fields as follows:
+    Active: queue = ReferenceQueue with which instance is registered, or
+    ReferenceQueue.NULL if it was not registered with a queue; next =
+    null.
+    Pending: queue = ReferenceQueue with which instance is registered;
+    next = this
+    Enqueued: queue = ReferenceQueue.ENQUEUED; next = Following instance
+    in queue, or this if at end of list.
+    Inactive: queue = ReferenceQueue.NULL; next = this.
 
+Weak reference objects, which do not prevent their referents from being
+made finalizable, finalized, and then reclaimed.  Weak references are most
+often used to implement canonicalizing mappings.
+They might be cleaned-up by Garbage collector
+
+Soft reference objects, which are cleared at the discretion of the garbage
+collector in response to memory demand.  Soft references are most often used
+to implement memory-sensitive caches.
+ 
 ### Permanent Generation
 The Permanent generation contains metadata required by the JVM to describe the classes and methods used in the application. The permanent generation is populated by the JVM at runtime based on classes in use by the application. In addition, Java SE library classes and methods may be stored here.
 
@@ -123,6 +159,10 @@ Switch|Description
 -XX:+UseG1GC | To enable the G1 Collector
 -XX:SurvivorRatio | For providing ratio of Eden space and Survivor Space, for example if Young Generation size is 10m and VM switch is -XX:SurvivorRatio=2 then 5m will be reserved for Eden Space and 2.5m each for both the Survivor spaces. The default value is 8.
 -XX:NewRatio | For providing ratio of old/new generation sizes. The default value is 2.
+-verbose:gc | GC will print message on each run
+-XX:+PrintCommandLineFlags | will print which GC is used
+-XX:HeapDumpOnOutOfMemory | will take heap dump when app crashes due to OOM
+
 
 ##### The Serial GC
 The serial collector is the default for client style machines in Java SE 5 and 6. With the serial collector, both minor and major garbage collections are done serially (using a single virtual CPU). In addition, it uses a mark-compact collection method.
