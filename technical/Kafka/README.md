@@ -57,6 +57,8 @@ Each topic is replicated across different brokers as a different partition but i
 * have all the partition divide among each consumers
 * needs to be rebalanced as new consumer comes and go which is done by zookeeper
 * broker coordinator (newer version) does same thing as zookeper.
+* The Kafka cluster durably persists all published records—whether or not they have been consumed—using a configurable retention period
+* The only metadata retained on a per-consumer basis is the offset or position of that consumer in the log
 * configurations
 	* group id
 	* session timeout -default 30s
