@@ -120,8 +120,85 @@ Monolithic architecture
 * Continuous Delivery
 * Hybrid Architectures
 
+### Asynchronous Communication
+* improves system health
+* event-driven ms 
+    * service put msg in async msg broker & drive events
+    * downstream processor will then operate on them
+* stream data platforms 
+    * msg written in central msg broker
+    * msg broker will then call apt listeners
+    * better as 1 msg can trigger multiple events
+* move foor load reduction
+* handling errors must be solid & recovery should be in place
+* data should be routinely monitored in autoamated fashion
+
+### Logging & Tracing
+* plan for unified logging strategies across your entire platform
+    * day to day operations
+    * troubleshooting
+    * maintenance
+    * investigation
+    * general tasks
+* Problems
+    * larger volume of artifacts
+    * agile nature
+    * different teams - different strategies
+* Log Aggregators : help in coalesce & scanning logs efficiently
+* Tracing : determine the actual flow in the system
+* unique token 'trace' is made which is passed to each service-calls & logged along with the messages
+* 
+
+### Continuous Delivery
+* automated way of build-deploy model (CI/CD pipeline) req for ms agility
+* build-test-deploy is  the most common automated steps, but can be enhanced
+* microservices priority
+* 
+
+### Hybrid Architectures
+
+* Hierarchical service architecture
+    * prevents circular dependencies
+    * n - tier architecture with service
+        * edge-service on top of business process service which is on top of data service
+        * edge : exposes functionality to outer service
+        * business process : contains actual business logic
+        * gateway service : make use of business process service to configure the services exposure
+        * data service : dao layer
+        * adds latency to a service call
+        * can introduce multiple boiler-plate stuff introducing latency
+* Service Based Architecture
+    * single database
+    * service decomposes the business model
+    * easy to model and start working with
+    * with time it grows just like monolith, and gets un-manageable
+    
+
 ## Architecture Choices
 * Design Consideration
 * Managing trade-offs
 * Edge Services
 * DevOps Culture
+
+### Design Consideration
+It should be done in the order & priority
+* plan out CI/CD pipeline
+* planning out logging and tracing frameworks
+* analysis for bounded context of services for the application
+* non-blocking code
+* stdize your stack
+* moving from sync to asynchronous service 
+* more about infra & configuration
+
+### Tradeoffs
+* Distribution Tax : distributability, service-boundaries, scaleability
+* Complexity : scaleability & deployment, individual services, 
+* Polyglot dev process : 
+
+### Edge services
+* In bound ES & Out bound ES
+* change in software requirements
+* third party interactions & their changes 
+* single source for changes
+
+*** BOTTOMLINE *** Try to adopt devOps culture
