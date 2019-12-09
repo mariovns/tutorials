@@ -95,7 +95,24 @@ Monolithic architecture
 ### Bounded Context
 * investigate working system, determine the domains, break services accordingly
 * reduce cross - domain calls
-*  
+* reduces latency by limiting distribution tax
+* strong contracts and well-defined boundaries allow for self-discovery (by consumer)
+
+### Transaction
+* ACID works best in single context
+* distributed transaction is tough in SOA & don't exist in MS
+* in ms, we strive for eventual consistency
+* ACID transaction is required in ms for some critical transaction like payments
+* 
+
+### API Layer
+* don't make any transformative changes & execution in Api Layer
+* a service proxy, which abstracts
+* provides a stdized proxy expose only configured endpoints
+* direct benefits
+    * scaling
+    * isolation for change
+    * versioning operations
 
 ## Advanced Concepts
 * Asynchronous Communication
