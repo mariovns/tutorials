@@ -31,22 +31,12 @@ Service-oriented architecture (SOA) is a design approach where multiple services
 * easier to maintain or rewrite software
 * 
   
-Microservices
+### Microservices
   * fine grained SOA, small ephemeral components
   * loosely couples SOA with bounded contexts
   * modular components, called from one another
   * Agility, distributability, scaleability are the deal breakers
   * lightweight processes communicating over HTTP, created and deployed with relatively small effort
-
-## Microservice Design
-Some additional attributes which has been added over the time are : 
-* Each component may have different database, different presentation tech
-* The API gateway can be a single incoming point for all request which redirects the request to eligible component to serve the request
-* Load Balancer can be utilised to smoothen out the large no. of request coming for a particular component by transferring it to its other replicas
-* Circuit Breaker can be employed at the initial layer to not let a failure cascade throughout the system and make the component unreachable in case of any issue with it
-* Monitoring tools can be added to control and monitor the no. of request coming for any component and the inter-component interactions
-* Nanoservice : anti-pattern, too fine-grained so that maintenance become overhead
-* Teraservices : more like monolith in itself, so can have all similar shortcomings
 
 ### Definition
 Microservices are small, autonomous services that work together. It can further be broken down as : 
@@ -61,17 +51,38 @@ Microservices are small, autonomous services that work together. It can further 
     * composability : fine-grained
     * organisational alignment : smaller focussed team 
     * replaceability : small components can be replaced easily
+* Challenges
+	* Complexity : deployment complexity with increase of components
+	* Bandwidth latency (Distribution Tax) : no. of inter-component communication increases exponentially
+	* Flow : lots of microservices then the flow of data and understanding it can be a challenge
+	* Configuration : with no. of microservices, the maintenance & configuration gets exceedingly tough
+	* Monitoring : different microservices may need different kind of monitoring & needs to be maintained separately
+	* Logging : increases with no. of micro-service
+	* Transaction : transaction maintenance tough, rollback tougher
+	* Automation : w/o process automation or CI/CD, micro-service based product may not be a success
+	* Issue of distributed System comes up as well, which are defined in CAP theorem.
 
-### Challenges
-* Complexity : deployment complexity with increase of components
-* Bandwidth latency (Distribution Tax) : no. of inter-component communication increases exponentially
-* Flow : lots of microservices then the flow of data and understanding it can be a challenge
-* Configuration : with no. of microservices, the maintenance & configuration gets exceedingly tough
-* Monitoring : different microservices may need different kind of monitoring & needs to be maintained separately
-* Logging : increases with no. of micro-service
-* Transaction : transaction maintenance tough, rollback tougher
-* Automation : w/o process automation or CI/CD, micro-service based product may not be a success
-* Issue of distributed System comes up as well, which are defined in CAP theorem.
+### Microservices Add-Ons
+Some additional attributes which has been added as we go along the implementation of microservice are : 
+* Each component may have different database, different presentation tech
+* The API gateway can be a single incoming point for all request which redirects the request to eligible component to serve the request
+* Load Balancer can be utilised to smoothen out the large no. of request coming for a particular component by transferring it to its other replicas
+* Circuit Breaker can be employed at the initial layer to not let a failure cascade throughout the system and make the component unreachable in case of any issue with it
+* Monitoring tools can be added to control and monitor the no. of request coming for any component and the inter-component interactions
+* Nanoservice : anti-pattern, too fine-grained so that maintenance become overhead
+* Teraservices : more like monolith in itself, so can have all similar shortcomings
+
+
+## Core Concepts of Microservices
+
+### CAP Theorem
+In a distributed environment, an application cannot have more than 2 below qualities together
+* ***C***onsistency
+* ***A***vailability
+* ***P***artition Tolerance
+
+It means if a patrition failure happens on an incoming request, then you can either provide consistency (by returning error response)
+or provide availability(by returning corrupted response) but not both.
 
 ### Microservices & cloud-native
 * CN : cloud infra
@@ -79,16 +90,15 @@ Microservices are small, autonomous services that work together. It can further 
 * CN can be monolithic
 * CN & MS both 12-factor application development
 
-
-### Domain Driven Design
-
-
-## Core Concepts of Microservices
-* Services
-* Communication
-* Distribution
-* Database & Transaction
-* API Layer
+### Domain Driven Design & Bounded Context
+* BC can be understood as specific responsibility enforced by explicit boundaries.
+* BC should be highly cohesive but very loosely coupled with other contexts
+* BC can be think of an animal cell
+* BC can be clubbed according to likewise business capabilities
+* investigate working system, determine the domains, break services accordingly
+* reduce cross - domain calls
+* reduces latency by limiting distribution tax
+* strong contracts and well-defined boundaries allow for self-discovery (by consumer)
 
 ### Services
  * Communicate via Rest over HTTP
@@ -119,12 +129,6 @@ Microservices are small, autonomous services that work together. It can further 
  * delays can increase, gridlock & hence catastrophe can happen
  * if there is a circular call stack, S1->S2->S1, then problem becomes much severe
  * in case of higher latency, circuit breakers can be utilised to timeout instead of a complete system failure
-
-### Bounded Context
-* investigate working system, determine the domains, break services accordingly
-* reduce cross - domain calls
-* reduces latency by limiting distribution tax
-* strong contracts and well-defined boundaries allow for self-discovery (by consumer)
 
 ### Transaction
 * ACID works best in single context
@@ -228,5 +232,17 @@ It should be done in the order & priority
 * change in software requirements
 * third party interactions & their changes 
 * single source for changes
+
+## Building Microservices
+
+### Modeling Services
+* The services should be having their well defined bounded context
+* services can have explicit interface which decide what to share with other services
+* even though deciding BC is the early requirement to a microservice designing, but deciding it prior to having a working application is difficult
+* BC & data models should be different & should not be confused with
+* we should divide into larger coarse grained contexts and then look if further dividing these context would help?
+	the organisational/team structure can guide the solution, also keep in mind higher the services higher will be complexity.
+* communication between different services can be guided by real world transactions between service entities
+* technological based BC in services haven't proved to be fruitful
 
 *** BOTTOMLINE *** Try to adopt devOps culture
