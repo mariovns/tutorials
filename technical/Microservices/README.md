@@ -1,39 +1,66 @@
 # Microservices
-Timeline ------> <p>
+In the quest of finding better ways to build systems, Microservices have emerged from below requirements
+* Domain-driven design
+* Continuous delivery
+* On-demand virtualization
+* Infrastructure automation
+* Small autonomous teams
+* Systems at scale
+
+## Timeline ------> <p>
 
 Mainframe computing -> client-server architecture (n-tier) -> server-oriented architecture (web-services)
 
-Microservices
-* fine grained SOA, small ephemeral components
-* loosely couples SOA with bounded contexts
-* modular components, called from one another
-* Agility, distributability, scaleability are the deal breakers
-* lightweight processes communicating over HTTP, created and deployed with relatively small effort
-
-Monolithic architecture
+### Monolithic architecture
 * presentation, business, dao, all logic inside 1 or interdependent archives
 * Benefits
 	* code reusability is more
 	* minimal overhead
 	* easy to extend features & API
-* Shortcomings where Micro-service could help out
+* Shortcomings
 	* scaleability not achievable
 	* release rollbacks
 	* tough to adopt new technologies in independent components
-	* failure cascading (Circuit-breakers in ms)
+	* failure cascading 
 	* agile task categorisation tough
 	* tough maintenance & bringing up a new developer to know full application
 
-## Microservice Design
-* each component may have different database, different presentation tech
-*  The API gateway can be a single incoming point for all request which redirects the request to eligible component to serve the request
-*  Load Balancer can be utilized to smoothen out the large no. of request coming for a particular component by transferring it to its other replicas
-*  Circuit Breaker can be employed at the initial layer to not let a failure cascade throughout the system and make the component unreachable in case of any issue with it
-*  Monitoring tools can be added to control and monitor the no. of request coming for any component and the inter-component interactions
+### Service-oriented architecture
+Service-oriented architecture (SOA) is a design approach where multiple services collaborate to provide some end set of capabilities.
+* promote the reusability of software
+* easier to maintain or rewrite software
+* 
+  
+Microservices
+  * fine grained SOA, small ephemeral components
+  * loosely couples SOA with bounded contexts
+  * modular components, called from one another
+  * Agility, distributability, scaleability are the deal breakers
+  * lightweight processes communicating over HTTP, created and deployed with relatively small effort
 
-### Nanoservice - Teraservice
-* Nanoservice : anti-pattern, too fine-grained so that maintenance become overheade
+## Microservice Design
+Some additional attributes which has been added over the time are : 
+* Each component may have different database, different presentation tech
+* The API gateway can be a single incoming point for all request which redirects the request to eligible component to serve the request
+* Load Balancer can be utilised to smoothen out the large no. of request coming for a particular component by transferring it to its other replicas
+* Circuit Breaker can be employed at the initial layer to not let a failure cascade throughout the system and make the component unreachable in case of any issue with it
+* Monitoring tools can be added to control and monitor the no. of request coming for any component and the inter-component interactions
+* Nanoservice : anti-pattern, too fine-grained so that maintenance become overhead
 * Teraservices : more like monolith in itself, so can have all similar shortcomings
+
+### Definition
+Microservices are small, autonomous services that work together. It can further be broken down as : 
+* Microservices take Single Responsibility Principle to independent services on business boundaries, making it obvious where code lives for a given piece of functionality.
+  Smaller the services become, the no. of services & hence microservices complexity increases.
+* Microservices should be autonomous and should be deployed without making changes in any other services.
+* Benefits
+    * Heterogenous technologies : embracing new tech quick but may be complex
+    * resilience : failure doesn't cascade
+    * scaling : scaled up/down as needed
+    * ease of deployment
+    * composability : fine-grained
+    * organisational alignment : smaller focussed team 
+    * replaceability : small components can be replaced easily
 
 ### Challenges
 * Complexity : deployment complexity with increase of components
@@ -42,8 +69,9 @@ Monolithic architecture
 * Configuration : with no. of microservices, the maintenance & configuration gets exceedingly tough
 * Monitoring : different microservices may need different kind of monitoring & needs to be maintained separately
 * Logging : increases with no. of micro-service
-* Transaction : transaction maintenance tough, rollbaclk tougher
+* Transaction : transaction maintenance tough, rollback tougher
 * Automation : w/o process automation or CI/CD, micro-service based product may not be a success
+* Issue of distributed System comes up as well, which are defined in CAP theorem.
 
 ### Microservices & cloud-native
 * CN : cloud infra
