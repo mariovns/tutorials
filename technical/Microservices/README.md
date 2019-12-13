@@ -243,6 +243,27 @@ It should be done in the order & priority
 * we should divide into larger coarse grained contexts and then look if further dividing these context would help?
 	the organisational/team structure can guide the solution, also keep in mind higher the services higher will be complexity.
 * communication between different services can be guided by real world transactions between service entities
-* technological based BC in services haven't proved to be fruitful
+* technology (Java, angular, node) based BC in services haven't proved to be fruitful
+
+### Integration Decisions
+* changes in APIs  should not break other services
+* communicating API should be technology agnostic
+* service should be easily consumable
+* service exposed should be abstracted
+* db integration with different service leaves a tight coupling as each service have to adhere to db structure & any changes to it may lead to change in all of the associated services
+* collaboration can be event-based in case of long-running jobs & request-response in other cases
+* choreographed communication just announce a state and other service will work accordingly, whereas an orchestration will go and tell each services what to do
+* choreographed communication is more loosely coupled but asynchronous so we need a monitor, while sychronous calls straightaway lets the status know
+* RPC & Rest can be one of the request-response collaboration, message brokers can be used in asynchronous collaboration
+* Async communication should be adopted only when you have  a robust monitoring tools
+* Service as a State  Machine & Reactive extensions can be added into communications
+* shared libraries across services can cause every service to be redeployed in case of any change in that service
+* the client libraries should be kept independent to server libraries so that inter-services coupling remain loose
+* stale object values used in long-running calls should be managed, mostly in case  of async calls
+* changing version should not break services upto a certain extent by following good practices
+* testing & semantic versioning can help with breaking changes in different versions
+* try co-existing older & newer methods or coexisting older & newer services until consumers are upgraded can help, but have complexity if the consumer upgrade took more time
+* 
+
 
 *** BOTTOMLINE *** Try to adopt devOps culture
