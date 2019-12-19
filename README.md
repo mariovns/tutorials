@@ -7,7 +7,7 @@ This tutorial will accumulate all of my knowledge into 1 place.
 All of the knowledge can be categorised into 3 major categories : 
 <ol>
   <li> Technical
-  <li> Social
-  <li> Spiritual
+  <li> Historical
+  <li> Linguistic
 </ol>
 </p></div>
