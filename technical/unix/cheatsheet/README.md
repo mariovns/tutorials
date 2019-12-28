@@ -8,5 +8,8 @@ Admin | top | get the details of all the running process like task manager
 Admin | ps | get all the application processes running | -ef [process executed with command]
 File | cat | file creation, display, content addition | 
 File | touch | file creation
-Directory | ls | display all files in the folder | -l [details: permission,modified date], -a [hidden files], -t [sort by time], -r []
+FIle
+Directory | ls | display all files in the folder | -l [details: permission,modified date], -a [hidden files], -t [sort by time], -r [reverse order]
+Directory | cd | change directory to specified folder or home if unspecified | ..[go to parent], 
+Directory | mkdir | make a directory in current folder with the specified name | -p []
 
