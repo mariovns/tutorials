@@ -4,7 +4,7 @@
 * The rich have money work for them
 * People lives are forever controlled by : Fear & Greed
 * Be in control of our own finances, not dependent on an employer
-*
+
 
 ## Why Teach Financial Literacy
 * It's not how much money you make, its how much you keep.
@@ -35,7 +35,6 @@
 * There is a difference between your - profession & your business.
 * Financial struggle is often the result of people working all their lives for someone else
 * Real Assets:
-
   * Business that don't require presence
   * Stocks
   * Bonds
@@ -43,7 +42,6 @@
   * Notes IOUs
   * Royalties from IP : music, scripts, patents
   * Anything that has value, produces income or appreciates & has a ready market
-
 * Acquire assets that you love
 * Start minding your own business. Keep your daytime job, but start buying real assets, not liabilities
 * Rich buys luxuries at last, poor & middle class buys luxuries first.
@@ -55,7 +53,11 @@
 * Each rupee in asset column is great employee, working hard to make more employees.
 * Corporation is just a legal document without a soul and has the power to avoid taxes through which personal expenses can be converted into tax saving instruments
 * Financial IQ is made up of the knowledge of
-  * Accounting
-  * Investing
-  * Understanding markets
-  * The Law
+  * Accounting : ability to read/understand FS
+  * Investing : money making money
+  * Understanding markets : science of supply & demand
+  * The Law : tax advantage, deductions, protections
+
+## The Rich invent Money
+* Financial genius requires both technical knowledge as well as courage.
+* Clinging onto old ideas is biggest liability
