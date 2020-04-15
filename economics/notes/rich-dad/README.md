@@ -59,5 +59,17 @@
   * The Law : tax advantage, deductions, protections
 
 ## The Rich invent Money
-* Financial genius requires both technical knowledge as well as courage.
+* Often in the real world its not the smart who get ahead but the bold
+* Financial genius requires both technical knowledge as well as courage
 * Clinging onto old ideas is biggest liability
+* Mind is the most powerful asset - can create enormous wealth if trained well. Invest in financial intelligence
+* Everyday there is an opportunity of lifetime. Up-down of economy, tech advancements all give opportunities
+* The problem with 'secure' investments is that they are often sanitized, i.e., made so safe that the gains are less
+* The best deals are reserved for those who understand the game
+* It is not gambling, if you know what are you doing
+* Develop below skills for investor who assembles various opportunities
+  * Find an opportunity that everyone missed
+  * Raise money - not be dependent on banks
+  * Organize smart people - hire smart people
+
+## Work To Learn - Not Money
