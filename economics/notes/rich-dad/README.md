@@ -71,5 +71,32 @@
   * Find an opportunity that everyone missed
   * Raise money - not be dependent on banks
   * Organize smart people - hire smart people
+* Learn to manage risk, instead of avoiding it
 
 ## Work To Learn - Not Money
+* Talented people are usually 1 skill away from great wealth
+* People should be Jack of all(much), master of none
+* Job should not be minimalistic but holistic, should understand the business
+* Workers work hard enough to not be fired, owners pay just enough so that workers won't quit
+* Seek work for learning, more than earning
+* Take a second job that will teach another skill
+* Highly specialized, then unionize. More skills, more are the opportunities
+* Higher the no. of skills up your sleeve, more will be job security
+* Main management skills needed for success
+  * Management of cash flow
+  * Management of systems
+  * Management of people
+* skills of selling & marketing is most important
+
+## Overcoming obstacles
+* Rasons why financially literate people may still not develop abundant asset columns that could produce large cash flow
+  1. Fear
+  2. Cynicism
+  3. Laziness
+  4. Bad habits
+  5. Arrogance
+* Primary difference between a rich person and a poor person is how they manage the fear
+* Most people played it too safe, people are so afraid of losing that they lose
+* Pain of losing money is far greater than the joy of being rich
+* Failure inspires winners. Failure defeat losers
+* Winning means being unafraid to lose
