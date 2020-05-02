@@ -4,7 +4,7 @@ Accountants have some basic rules and assumptions upon which rest all their work
 ## Contextual Definition
 For US, FASB (Financial Accounting Standards Board) makes these rules & termed as GAAP(Generally Accepted Accounting Principles). FASB is made up of CPAs (Certified Public Accountants). Made up of 12 principles.
 
-For India, MCA(Ministry of Corporate Affairs) makes these rules & term it as Indian GAAP. Made up of 10 principles. However IFRS(International Financial Reporting Standards) is also prevalent which is prepared by IASB(International Accounting Standards Board). Made up of [17 principles](http://www.ifrs.org/issued-standards/list-of-standards/)
+For India, ICAI (Institute of Chartered Accountants of India) makes these rules & term it as Indian GAAP. Made up of 10 principles. However IFRS(International Financial Reporting Standards) is also prevalent which is prepared by IASB(International Accounting Standards Board). Made up of [17 principles](http://www.ifrs.org/issued-standards/list-of-standards/)
 
 ## GAAP
 
@@ -59,3 +59,16 @@ For India, MCA(Ministry of Corporate Affairs) makes these rules & term it as Ind
         - Other expenses are recorded when they arise
 
 Note that all businesses with inventory must use the accrual basis of accounting. Other businesses may use a “cash basis” if they desire. Cash basis financial statements are just like the Cash Flow Statement or a simple checkbook.
+
+## Indian GAAP
+  1. **Business Entity Assumption** same as *Accounting Entity*
+  2. **Monetary Unit Assumption** All the financial transactions of a business should be capable of being expressed in a monetary unit (Indian Rupees, for example) and if it is not possible to do so, then it should not be recorded in the books of accounts of the business.
+  3. **Accounting Period** same as *Periodicity*
+  4. **Historical Cost Concept** same
+  5. **Going Concern Assumption** same
+  6. **Full Disclosure Principle** An accounting entry may not independently be able to provide all the relevant information relating to the transaction. Hence the full disclosure principle requires the entity to disclose all the financial information relevant to the investor/user to assist him in decision making. At the transactional level, this is done by recording an adequate narration with every transaction and at the financial statement level, this is implemented by providing notes to the accounts.
+  7. **Matching Concept** This concept requires the revenue for a particular period to be matched with its corresponding expenditure so as to show the true profit for the period.
+  8. **Accrual Basis of Accounting** This principle requires all revenue and expenditure to be recorded in the period it is actually incurred and not when cash or cash equivalent has been received/spent. The earning of the income and the incurring of the expenditure is important, irrespective of the corresponding cash flow.
+  9. **Consistency** same
+  10. **Materiality** same
+  11. **Conservatism** same. This means that while accounting for a particular transaction, all anticipated expenses or losses will need to be accounted for but all potential income or gains should not be recorded until actually earned/received

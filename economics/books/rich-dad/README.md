@@ -144,11 +144,13 @@
 ## Getting Started
 - There is gold everywhere. Most People are not trained to see it.
 - 10 steps to awaken financial intelligence
+
   1. **Find a reason greater than reality: the power of spirit**
     - A reason or purpose is a combination of wants and don't wants
     - The `don't wants` and `wants` for becoming rich should be deep seated emotional reasons
     - If they are not strong enough, then the reality of the road ahead may be greater than your reasons.
     - The purpose is the basis of further steps to work out.
+
   2. **Make daily choices: the power of choice**
     - With every coming dollars, we hold the power to choose our future financially
     - Our spending habits reflect who we are
@@ -175,6 +177,32 @@
     - The reason of  having rich friends is because they share useful information about market.
     - The sooner you know, the better your chances are for profits with minimal risk
   4. **Master a formula and then learn a new one: power of learning quickly**
+    - Be careful what you learn, because your mind is so powerful that you become what you put in your head
+    - if you are not making enough, its simply a case of changing the formula via which you make money
+    - Once master a formulae, search another formula
+    - Often what you know is old, it is how fast you learn, which is priceless.
+  5. **Pay yourself first PYF: the power of self discipline**
+    - Personal self-discipline is the number-1 delineating factor between the rich, the poor, and the middle class
+    - People who have low self-esteem and low tolerance for financial pressure can never be rich
+    - Each of the management skills (Cash flow, People, Personal time) is enhanced by the mastery of self-discipline
+    - People who pay themselves first
+    > Job -> Income -> Assets -> Expenses -> Income
+    - People who pay everyone else first
+    > Job -> Income -> Expenses
+    - The power of self-discipline and the power of internal fortitude
+    - Most people allow the world to push them around
+    - Don't get the consumer debt at the first place
+    - To successfully PYF
+        - Don't get into large debt position that you have to pay for. Keep your expenses low. Build up assets first
+        - When you come up short, let the pressure build and don't dip into your savings or investments
+    - Savings are only used to create more money, not to pay bills
+  6. **Pay your brokers well: the power of good advice**
+    - A good broker should provide you with information, ad well as take time to educate you.
+    - A good broker saves time in addition to, making money
+    - A broker is eyes & ears in the market
+    - Unfortunately, most brokers are only salespeople
+    - 
 - [ ] List down `don't wants` and `wants` : financial future
 - [ ] Learn about investing
 - [ ] Spend each rupee thinking about financial future
+- [ ] Fast-paced learning and varied learning
