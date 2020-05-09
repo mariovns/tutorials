@@ -7,7 +7,7 @@
   ` Assets = Liabilities + Worth `
 - Both “net worth” and “book value” mean the same thing as shareholders’ equity
 - Addition in LHS (Assets) should be balanced by addition of RHS (Liabilities or Worth or both) ![Balance Sheet equation](img2.jpg)
-- Balance Sheet is a snapshot of time
+- *Balance Sheet is a snapshot in time for a business*
 ```
 Assets:= Has Today
 Liabilities:= Owes Today
@@ -28,17 +28,17 @@ Equity:= Worth Today
 - Asset Types
   1. **Current Assets** [E]
   -  those assets that are expected to be converted into cash in less than 12 months. Listing order
-    - CASH [A]
-    - ACCOUNTS RECEIVABLE [B]
-    - INVENTORY [C] (Raw Materials, Work-in-process, Finished goods)
-    - PREPAID EXPENSES [D] (the enterprise will not have to use cash to pay them in the near future)
+      - CASH [A]
+      - ACCOUNTS RECEIVABLE [B]
+      - INVENTORY [C] (Raw Materials, Work-in-process, Finished goods)
+      - PREPAID EXPENSES [D] (the enterprise will not have to use cash to pay them in the near future)
   - Current asset cycle of a business
     > cash -> buys inventory -> sold to become account receivable -> collection becomes cash
   2. **Other Assets** [F] catchall category that includes intangible assets such as the value of patents, trade names and so forth
   3. **Fixed Assets**
   - property, plant and equipment, or PP&E
   - *Fixed Assets at Cost* [G] (GAAP : Historical Cost) : reported on the Balance Sheet at original purchased price
-  - Depreciation [H] is an accounting convention reporting (on the Income Statement) the decline in useful value of a fixed asset due to wear and tear from use and the passage of time
+  - Depreciation [H] is an accounting convention reporting (on the Income Statement) the decline in useful value of a fixed asset due to wear and tear from use and the passage of time. Depreciation can be negative.
   - The Net Fixed Assets [I] of a company are the sum of its fixed assets’ purchase prices minus the depreciation charges taken on the Income Statement over the years
   - Total Assets are followed as below
   ```

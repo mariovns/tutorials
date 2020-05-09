@@ -27,3 +27,19 @@
 - [ ] List down `don't wants` and `wants` : financial future
 - [ ] Learn about investing
 - [ ] Spend each rupee thinking about financial future
+- [ ] Find and associate with friends interest in money
+- [ ] Learn fast-paced and on varied money topics
+- [ ] Invest & build assets from Income first
+- [ ] Learn to find the good brokers, and invest in it
+- [ ] Look at investments with the intent of getting the invested money back
+- [ ] Read Wall Street Journal
+- [ ] Don't buy luxuries on credit but on profits made on assets
+- [ ] Follow successful persons, like Warren Buffet, Trump
+- [ ] Teach your experience to others
+- [ ] assess & correct the sources of income
+- [ ] learn through people, classes, resources
+- [ ] offer a lot on bargained values
+- [ ] find investment opportunity
+- [ ] purchase items at cheap, use different location & time
+- [ ] purchase in bulk, along with friends
+- [ ] Take action, be it from small

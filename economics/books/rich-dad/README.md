@@ -103,35 +103,35 @@
 
 ## Overcoming obstacles
 * Rasons why financially literate people may still not develop abundant asset columns that could produce large cash flow
-  1. Fear
+  1. **Fear**
     * Primary difference between a rich person and a poor person is how they manage the fear
     * Most people played it too safe, people are so afraid of losing that they lose
     * Pain of losing money is far greater than the joy of being rich
     * Failure inspires winners. Failure defeat losers
     * Winning means being unafraid to lose
     - With little money if want to be rich, people should be first focussed, not balanced.
-    - **FOCUS** : Follow One Course Until Successful
+    - *FOCUS* : Follow One Course Until Successful
   2. Cynicism
-    - **Chicken Little** ran around warning the barnyard of impending doom
+    - *Chicken Little* ran around warning the barnyard of impending doom
     - CL is inside each one of us
     - Seemingly worst of times is actually the best of times to make money
-    - **Buyer's Remorse** post purchase, it looks bad deal
+    - *Buyer's Remorse* post purchase, it looks bad deal
     - Doubt is expensive
     - Doubts & Cynicism keep most people poor and playing it safe
     - Real estate is a powerful investment tool for anyone seeking financial independence. Great property manager is the key.
     - In stock markets, a stop is simply a computer command that sells your stock automatically if the price began to drop, helping to minimize your losses and maximize some gains
-  3. Laziness
+  3. **Laziness**
     - Busy people are often the most lazy
     - People are too busy to take care of their wealth & health
     - Laziness by staying busy is found commonly
     - A little greed can be the cure for laziness
     - Replace *I can't afford it* into *How can I afford it*. It forces the brain to think and search for answers
     - Our world progresses because we all desire a better life
-  4. Bad habits
+  4. **Bad habits**
     - After paying oneself the pressure to pay the taxes and bills are so huge that it forces the person to seek other forms of income
     - Pressure made people work harder, made people smarter and more active when it comes to money.
     - If I pay myself first, I get financially stronger, mentally and fiscally.
-  5. Arrogance
+  5. **Arrogance**
     - Many people use arrogance to hide their ignorance
     - People make money, because what they know, but lose money when they don't know things. If people are arrogant that they know all what is needed then they will lose money because of ignorance
     - When you know that you are ignorant in a subject, start educating yourself by finding an expert in the field or a book on the subject
@@ -199,10 +199,85 @@
   6. **Pay your brokers well: the power of good advice**
     - A good broker should provide you with information, ad well as take time to educate you.
     - A good broker saves time in addition to, making money
-    - A broker is eyes & ears in the market
+    - A broker is the eyes & ears in the market, people could use those times to make more money or spend it with those people love
     - Unfortunately, most brokers are only salespeople
-    - 
+    - There is a tremendous difference between a broker who sells houses and a broker who sells investments
+    - The real skill is to manage and reward the people who are smarter than you inn the technical area.
+  7. **Be an Indian giver: power of getting something for nothing**
+    - The sophisticated investor's first question : "How fast do I get my money back?"
+    - Invest wisely to get your invested amt back but keeping the invested asset.
+    - On every one of investments, there must be something for free - a mini-storage, a piece of free land, a house, stock shares, or an office building
+    - Wise investors must look at more than ROI
+  8. **Use assets to buy luxuries: the power of focus**
+    - Luxuries should be bought from the profits of assets
+    - If a person cannot master the self-discipline, he can't be rich. To have mental fortitude to direct money to the correct use.
+    - Due to external temptations, it is much easier in consumer world to simply blow money out the expense column
+    - Don't buy luxuries on credit
+    - Instead of focussing on the liability column, I focus on the asset column
+    - To master money, start early and be smarter than it
+  9. **Choose heroes: power of myth**
+    - Reading and analyzing the actions of successful person, can give insights to their mind as well as courage
+    - It can give the path or way to follow while planning for investment
+  10. **Teach and you shall receive: power of giving**
+    - If want to learn about something, teach it to someone else
+    - You need to be generous with what you have.
+
 - [ ] List down `don't wants` and `wants` : financial future
 - [ ] Learn about investing
 - [ ] Spend each rupee thinking about financial future
-- [ ] Fast-paced learning and varied learning
+- [ ] Find and associate with friends interest in money
+- [ ] Learn fast-paced and on varied money topics
+- [ ] Invest & build assets from Income first
+- [ ] Learn to find the good brokers, and invest in it
+- [ ] Look at investments with the intent of getting the invested money back
+- [ ] Read Wall Street Journal
+- [ ] Don't buy luxuries on credit but on profits made on assets
+- [ ] Follow successful persons, like Warren Buffet, Trump
+- [ ] Teach your experience to others
+
+## Still want more : Here are some To-Dos
+- Understanding the philosophy is just as important as the action
+- ToDo
+  - _Stop doing what you are doing_. Assess what is working and what is not.
+  - _Look for new ideas_. Through reading new books, articles, blogs, videos, look for new subjects. And TAKE ACTION
+  - _Find someone who has done what you want to do_ spend for their time, ask for tips and tricks
+  - _Take classes, read and attend seminars_ search for new economic classes, and spend even on expensive classes. The returns on these investments can be huge.
+  - _Make lots of offer_ write many offers on bargained values for different investments. Go to mkt & talk to a lot of people. Search, offer, reject, negotiate and accept are all parts of the process of almost everything in life
+  - _Jog, walk or drive a certain area once a month for 10 minutes_.
+      - Notice slight differences in neighbourhood.
+      - Notice real estate signs that are up for a long time
+      - Talk to locals, vendors, truck drivers, postal carriers
+      - Find bad areas, understand the dynamics & monitor the changes
+  - _Shop for bargains in all the markets_ when stock market has a sale, people called as crash. Profits are made in the buying, not selling.
+  - _Look in the right places_. same item can be bought at cheaper price elsewhere
+  - _Look for the people who wants to buy first, then look for someone who wants to sell_. purchase along with the others to get the benefit of bulk buying, can get your items absolutely free.
+  - _Think big_ go for the volume discount, get someone else as well if they want to buy same things
+  - _Learn from history_ everything started as small
+  - _Action always beats inaction_
+- You must take action before you can receive the financial rewards
+- [ ] assess & correct the sources of income
+- [ ] learn through people, classes, resources
+- [ ] offer a lot on bargained values
+- [ ] find investment opportunity
+- [ ] purchase items at cheap, use different location & time
+- [ ] purchase in bulk, along with friends
+- [ ] Take action, be it from small
+
+## Final Thoughts
+- Information becoming priceless
+- Better future => financial intelligence > hard work
+- Want more money, simply change your thinking
+- What's in your head determines what is i n your hands
+- _Think and  Grow  Rich_
+- Play it smart
+- **The three income**
+    - _Ordinary_ : through regular job
+    - _Portfolio_: through stocks & bonds
+    - _Passive_  : through real estate
+- Key to become wealthy is the ability to convert ordinary into portfolio/passive asap
+- A real investor makes money in an up market and a down market, thats why they make so much money
+- Risk comes from not knowing what you are doing
+- think always in terms of ROI for each investment alike cheap or expensive
+- Ordinary income is money you work for, and passive + portfolio income is money working for you.
+- Money & Time is upto you to invest.
+- Take Action
