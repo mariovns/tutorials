@@ -62,3 +62,10 @@ Non-Operating Income:= Interest Income
 ```
 
 ### Accrual Basis vs. Cash Basis
+- Maintaining company's books based on when the company records expenses and income
+  - __Accrual Basis__
+      - reflect the generation of obligations (payables) to pay cash in the future
+      - net worth reduces with the use itself, before payment
+  - __Cash Basis__
+      - accounting transactions are triggered only by the movement of cash
+      - the _IS_ and the _Cash Flow Statement_ are the same

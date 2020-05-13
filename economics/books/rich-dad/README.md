@@ -1,4 +1,6 @@
 # Rich Dad Poor Dad
+
+*- Robert Kiyosaki*
 ## The rich don't work for money
 * The poor & the middle class work for money
 * The rich have money work for them
