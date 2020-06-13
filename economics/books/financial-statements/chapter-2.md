@@ -95,3 +95,6 @@ V:= E - O
 - Sources are ways working capital increases in the normal course of business
 - Uses are ways working capital decreases during the normal course of business
 - With lots of working capital it will be easy to pay your “current” financial obligations, bills that come due in the next 12 months
+
+
+[<< previous](chapter-1.md "Twelve Basic Principles")[ next >>](chapter-3.md "The Income Statement")

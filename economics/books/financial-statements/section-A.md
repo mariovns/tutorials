@@ -21,3 +21,4 @@ solvency != profitability
 solvency = bills payment capability
 profitability = profits > 0
 ```
+[<< previous](README.md "Index")[ next >>](chapter-1.md "Twelve Basic Principles")

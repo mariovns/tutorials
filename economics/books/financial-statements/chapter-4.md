@@ -31,3 +31,5 @@ Ending Cash Balance:= Beginning Cash Balance +
                       Income Taxes Paid      +
                       Sale of Stock
 ```
+
+[<< previous](chapter-3.md "The Income Statement")[ next >>](chapter-5.md "Connections")

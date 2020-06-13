@@ -72,3 +72,6 @@ Note that all businesses with inventory must use the accrual basis of accounting
   9. **Consistency** same
   10. **Materiality** same
   11. **Conservatism** same. This means that while accounting for a particular transaction, all anticipated expenses or losses will need to be accounted for but all potential income or gains should not be recorded until actually earned/received
+
+
+[<< previous](section-A.md "Section A : Financial Statements: Structure & Vocabulary")[ next >>](chapter-2.md "The Balance Sheet")

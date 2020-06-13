@@ -69,3 +69,5 @@ Non-Operating Income:= Interest Income
   - __Cash Basis__
       - accounting transactions are triggered only by the movement of cash
       - the _IS_ and the _Cash Flow Statement_ are the same
+
+[<< previous](chapter-2.md "The Balance Sheet")[ next >>](chapter-4.md "The Cash Flow Statement")

@@ -71,3 +71,5 @@ PP&E Purchase in CFS + y => Fixed Asset @ cost in BS + y => Net Fixed Asset in B
 `
 Financial statements document the movement of cash and goods and services into and out of the enterprise. That is all financial statements are about
 `
+
+[<< previous](chapter-4.md "The Cash Flow Statement")[ next >>](section-B.md "Transactions: Exploits of AppleSeed Enterprises, Inc.")
