@@ -43,7 +43,48 @@
 - [ ] Everyday read and listen some +ve uplifting content [motivational, spiritual, biographies]
 
 ## Picture your way to success
+`You must first clearly see a thing in your mind before you can do it`
+- Many top competitors mentally envision a successful outcome before actually achieving it
+- The picture remains in your mind and exerts tremendous influence over your present actions
+- You - and only you - are in control of your own movies
+- When you don't consciously decide which pictures to play, your mind will look into the "archives" and keep re-playing old movies on file in your mental library
+- Today, you can consciously choose to view the situation differently
+- We can create new mental movies whenever we choose to do so
+- By being patient and by persistently focussing on the mental images, you'll automatically start acting in ways that support your vision
+- The more sights, sounds, smells, taste and touches you put inn your pictures, the more powerful the "pull" for you to make your vision a reality
+- Also those images associated with strong emotions have even more power
+- Jim Carrey *postdated cheque* exercise is a great example of the power of the subconscious mind to actualise a goal that is held with deep conviction and feeling
+- Make sure to look at that check at least once a day, and believe that you're moving towards that goal
+- create a visual aid and your mind will get to work to bring that picture in your life
+- It works both ways, +ve & -ve direction
+- [ ] create an image of your desired outcome
+- [ ] create a visual aid
 
 ## Make a commitment and you'll move mountains
+- Key to get what you want is the *willingness to do whatever it takes*
+- Once you've made a commitment to achieve your goal, then you'll follow through with relentless determination and action until you attain the desired result
+- Until one is committed there is hesitancy, the chance to draw back, always ineffectiveness
+- A whole stream of events issues from the decision, raising inn one's favour, all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way.
+
+`Effort only fully releases its reward after a person refuses to quit`
+- You dont have to know at the outset how to achieve your goal : Its not essential that every step be mapped out in advance
+
+`With ordinary talent and extraordinary perseverance, all things are attainable`
+- Even with a commitment, life will test you to see how serious you are about achieving your objective.
+
+`You become a champion by fighting one more round`
+
+`One person with a commitment is worth 100 people who have only interest`
+- After 10 years of writing D Baldacci had total sales : ZERO, all that he had to show for his efforts were a lot of rejections from editors.
+
+`The rewards for those who persevere far exceed the pain that must precede the victory`
+
+- As long as it takes
+- "if it works in first 6 months, then ok, otherwise I quit" : not a mental attitude that leads to success
+- Despite your most careful plans, you don't know how long it will take to achieve your goal... you can't foresee all the obstacles that will cross your path
+- Committed people are going to hang in - and revail - no matter what
+
+- [ ] Am I willing to do whatever it takes to achieve this goal?
+- [ ] do whatever it takes
 
 ## Turn your problems into opportunities
