@@ -88,3 +88,21 @@
 - [ ] do whatever it takes
 
 ## Turn your problems into opportunities
+`Every adversity carries with it the seed of an equivalent greater benefit`
+
+- A *problem* may point out an adjustment you can make to improve certain conditions in your life
+- Finding the benefit : developing a +ve attitude post crisis
+- From tragedy to triumphs : a tragedy can force to think and improve
+` The thing which hurt, instruct`
+- How the events of life can set up for some brilliant things to come
+- The +ves are there in adverse situations.. if we look for them
+- Ways in which adversity can serve us
+  - Adversity gives us perspective : post which we cann focus on truly important things
+  - Adversity teaches us to be grateful : we don't usually appreciate thing until it's taken away
+  - Adversity brings out our hidden potential : you acknowledge that you can overcome any difficult task
+  - Adversity encourages us to make changes and take action
+  - Adversity teaches us valuable lessons : what not to do
+  - Adversity opens a new door : as 1 door has been closed, another is waiting for you
+  - Adversity builds confidence and self-esteem : a greater feeling of self worth and you carry these positives into subsequent activities
+- You can see your seemingly -ve experience in your life as an opportunity.. as something you can learn from.. as something you can grow from
+- [ ] ask yourself what you've learnt from the trying experience
