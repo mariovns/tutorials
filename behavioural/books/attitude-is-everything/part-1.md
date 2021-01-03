@@ -6,6 +6,7 @@
 - Same outlet, same dish & same service can give a delightful experience to a person with +ve attitude and can give annoying experience to one with -ve attitude.
 - Attitude is the mental filter through which you experience the world *--> Window*
 - Behaviour differences due to attitude
+ 
  action | +ve | -ve
  --- | --- | ---
  thinks | I can | I can't
